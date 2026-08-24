@@ -1,0 +1,11 @@
+sentence-transformers==3.0.1
+transformers==4.44.0
+torch==2.4.0
+faiss-cpu==1.8.0
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.37.0
+fastapi==0.112.0
+uvicorn==0.30.5
+matplotlib==3.9.1
