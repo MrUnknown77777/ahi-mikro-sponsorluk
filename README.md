@@ -6,7 +6,7 @@ ayni kampanyaları destekleyen, Ticari Reklam Yönetmeliği m. 23/A'ya uygun tan
 etiketini otomatik üreten iki taraflı mikro-sponsorluk altyapısı.
 
 **TEKNOFEST 2026 NSosyal İnovasyon Yarışması — İçerik Ekonomisi**
-Takım: İstikbalin Cezerileri · Takım ID: 838684 · Başvuru ID: 5394543
+Takım: İstikbalin Cezerileri 
 
 ---
 
