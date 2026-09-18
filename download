@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Üretilen dosyalar — depoya alınmaz, betiklerle yeniden oluşturulur
+data/generated/
+web/shots*/
+web/*.bak
