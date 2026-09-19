@@ -1,0 +1,11 @@
+{
+  "corpus": 3000,
+  "briefs": 30,
+  "recall_at_50": 0.497,
+  "recall_at_150": 1.0,
+  "relevant_per_brief": 100,
+  "ndcg_at_10": 0.995,
+  "mrr_at_10": 1.0,
+  "precision_at_10": 0.993,
+  "weak_label_f1": 1.0
+}

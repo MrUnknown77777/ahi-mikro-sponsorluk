@@ -1,0 +1,8 @@
+numpy>=1.26
+scikit-learn>=1.4
+
+# BERTurk arka ucu için (isteğe bağlı):
+# sentence-transformers>=3.0
+
+# Test paketi için (isteğe bağlı):
+# playwright>=1.40
